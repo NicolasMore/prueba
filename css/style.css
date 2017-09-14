@@ -7,7 +7,7 @@
   box-sizing: border-box; }
 
 body {
-  background-color: #3d3c96;
+  background-color: #860C0C;
   font-family: "Open Sans", sans-serif;
   color: #FFF;
   overflow-x: hidden; }
@@ -41,7 +41,7 @@ body {
   color: #3d3c96;
   padding: 1rem 0;
   font-size: 1rem;
-  background-color: #f8a5ae;
+  background-color: #F7DF0E;
   will-change: box-shadow;
   box-shadow: 0px 0px 0 0 #FFF;
   text-shadow: 0px 0px 0 #FFF;
